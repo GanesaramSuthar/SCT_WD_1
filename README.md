@@ -63,7 +63,7 @@ You can also open the project directly in Visual Studio Code and use the Live Se
 **Ganesaram Suthar**
 
 - GitHub: [@GanesaramSuthar](https://github.com/GanesaramSuthar)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/ganesaram-suthar-391886373/)
+- LinkedIn:[ [Connect with me](https://www.linkedin.com/in/ganesaram-suthar-391886373/)](https://www.linkedin.com/in/ganesaram-suthar-391886373/?isSelfProfile=true)
 
 ## 🙏 Acknowledgement
 
